@@ -2,3 +2,4 @@
 
 site_name: 'Demo site'
 
+database_url: postgresql://localhost:5432/demo
